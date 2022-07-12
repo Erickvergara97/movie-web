@@ -1,5 +1,4 @@
 import styles from './App.module.css';
-import { Moviesgrid } from './components/MoviesGrid';
 import { 
   BrowserRouter as Router,
   Switch,
